@@ -60,5 +60,21 @@ namespace LottoApp
                 }
             }
         }
+
+        public int IzracunajBrojPogodaka()
+        {
+            int brojPogodaka = 0;
+
+            foreach (int broj in UplaceniBrojevi)
+            {
+
+                if (UplaceniBrojevi.Contains(broj))
+                {
+                    brojPogodaka++;
+                }
+            }
+
+            return brojPogodaka;
+        }
     }
 }
