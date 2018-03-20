@@ -1,0 +1,10 @@
+C:\Users\nale\Documents\SourceTree_repos\LottoApp\LottoApp\bin\Debug\LottoApp.exe.config
+C:\Users\nale\Documents\SourceTree_repos\LottoApp\LottoApp\bin\Debug\LottoApp.exe
+C:\Users\nale\Documents\SourceTree_repos\LottoApp\LottoApp\bin\Debug\LottoApp.pdb
+C:\Users\nale\Documents\SourceTree_repos\LottoApp\LottoApp\obj\Debug\LottoApp.csprojResolveAssemblyReference.cache
+C:\Users\nale\Documents\SourceTree_repos\LottoApp\LottoApp\obj\Debug\LottoApp.FrmLotto.resources
+C:\Users\nale\Documents\SourceTree_repos\LottoApp\LottoApp\obj\Debug\LottoApp.Properties.Resources.resources
+C:\Users\nale\Documents\SourceTree_repos\LottoApp\LottoApp\obj\Debug\LottoApp.csproj.GenerateResource.Cache
+C:\Users\nale\Documents\SourceTree_repos\LottoApp\LottoApp\obj\Debug\LottoApp.csproj.CoreCompileInputs.cache
+C:\Users\nale\Documents\SourceTree_repos\LottoApp\LottoApp\obj\Debug\LottoApp.exe
+C:\Users\nale\Documents\SourceTree_repos\LottoApp\LottoApp\obj\Debug\LottoApp.pdb
